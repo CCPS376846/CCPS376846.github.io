@@ -22,17 +22,22 @@ footer {
 }
 
 p {
-  
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 11px;
 }
 
 ol {
-  
+color: maroon;
+  background-color: #DE5D83
 }
 
 ul {
-  
+  color: orange;
+  backGround-color: #DE5D83
 }
 
 h1 {
-  
+  font-size: 50px;
+    padding: 0 40px;
 }
